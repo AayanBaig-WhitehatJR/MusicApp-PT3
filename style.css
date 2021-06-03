@@ -1,0 +1,39 @@
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 23px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+#speeddiv{
+    float: left;
+}
+
+#speeddiv h3{
+font-size: 23px;
+margin: 15px;
+}
+body{
+    background-size: cover;
+}
+#volumediv{
+    float: right;
+}
+#volumediv h3{
+    font-size: 23px;
+    margin: 15px;
+}
+#warning{
+    color: red;
+    background-color: whitesmoke;
+    padding: 5px;
+    border-radius: 10px;
+ word-wrap: break-word;
+}
+
+canvas{
+    border: 5px outset whitesmoke;
+    margin-top: 150px;
+}
